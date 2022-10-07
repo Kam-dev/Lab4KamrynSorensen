@@ -1,0 +1,15 @@
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\bin\Debug\net6.0\Lab4KamrynSorensen.exe
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\bin\Debug\net6.0\Lab4KamrynSorensen.deps.json
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\bin\Debug\net6.0\Lab4KamrynSorensen.runtimeconfig.json
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\bin\Debug\net6.0\Lab4KamrynSorensen.dll
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\bin\Debug\net6.0\Lab4KamrynSorensen.pdb
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\obj\Debug\net6.0\Lab4KamrynSorensen.csproj.AssemblyReference.cache
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\obj\Debug\net6.0\Lab4KamrynSorensen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\obj\Debug\net6.0\Lab4KamrynSorensen.AssemblyInfoInputs.cache
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\obj\Debug\net6.0\Lab4KamrynSorensen.AssemblyInfo.cs
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\obj\Debug\net6.0\Lab4KamrynSorensen.csproj.CoreCompileInputs.cache
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\obj\Debug\net6.0\Lab4KamrynSorensen.dll
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\obj\Debug\net6.0\refint\Lab4KamrynSorensen.dll
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\obj\Debug\net6.0\Lab4KamrynSorensen.pdb
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\obj\Debug\net6.0\Lab4KamrynSorensen.genruntimeconfig.cache
+C:\Users\amyso\source\repos\Lab4\Lab4KamrynSorensen\obj\Debug\net6.0\ref\Lab4KamrynSorensen.dll
